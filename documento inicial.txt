@@ -1,3 +1,2 @@
 este es el primer documento creado en el repo de prueba
-agrego una linea
-agregando otra linea lista para subir
+delete one line
